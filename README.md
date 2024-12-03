@@ -4,9 +4,8 @@ Bezzera (Duo und andere) Espresso Maschinen stoppen den Bezug abrupt, wenn der T
 Ich habe einen einfachen Sensor aus einem [M5Atom Lite](https://shop.m5stack.com/products/atom-lite-esp32-development-kit) und dem dazu gehörigen [Ultraschall-Abstandssensor RCWL-9620](https://shop.m5stack.com/products/ultrasonic-distance-unit-i2c-rcwl-9620) programmiert, der bei niedrigem Stand eine LED anmacht. Damit wird man früh genug daran erinnert, das Wasser nachzufüllen.
 Der Sensor kann in Home Assistant integriert werden. Der Button des M5Atom wird auch exportiert und ich nutze ihn, um die Steckdose der Bezzi zu schalten.
 
-<img alt="M5Atom Lite" src="https://github.com/user-attachments/assets/9258c98b-f358-4c95-b8f2-9816c306b8e5" width="300"> 
-<img alt="Sensor unter Tankdeckel" src="https://github.com/user-attachments/assets/2b51076e-bb9e-4e2d-8aba-b29bfde32b14" width="300"> 
 <img alt="Niedriger Wasserstand" src="https://github.com/user-attachments/assets/bb8827ff-993e-43df-bb2d-2bc531819f50" width="300"> 
+<img alt="Sensor unter Tankdeckel" src="https://github.com/user-attachments/assets/2b51076e-bb9e-4e2d-8aba-b29bfde32b14" width="300"> 
 
 
 
