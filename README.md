@@ -78,9 +78,6 @@ binary_sensor:
     icon: "mdi:gesture-tap-button"
     web_server:
       sorting_weight: 50
-    # on_press:
-    #  then:
-    #    - light.toggle: status_led
   - platform: template
     name: "Kaffeewasser nachfüllen"
     id: nachfuellen
