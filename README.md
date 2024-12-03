@@ -165,11 +165,9 @@ number:
     restore_value: true
     web_server:
       sorting_weight: 2
-´´´
+```
 
 # Konfiguration
-Die Tiefe des Tanks kann es entweder via Home Assistant
-![grafik](https://github.com/user-attachments/assets/25ecd5df-674b-4060-8fd7-752bff4c3605)
-
-oder über das eingebaute Webinterface konfiguriert werden:
-![grafik](https://github.com/user-attachments/assets/a5f59165-630b-496a-85e1-0ba85a8c4e2d)
+Die Tiefe des Tanks kann es entweder via Home Assistant oder über das eingebaute Webinterface konfiguriert werden:
+<img width=300 alt="Home Assistant Interface" src="https://github.com/user-attachments/assets/37e3ec14-b189-455e-99a7-bf0b4970fa03">
+<img width=600 alt="Webinterface" src="https://github.com/user-attachments/assets/a5f59165-630b-496a-85e1-0ba85a8c4e2d">
